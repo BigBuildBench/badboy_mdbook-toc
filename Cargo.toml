@@ -1,0 +1,16 @@
+[package]
+name = "mdbook-toc"
+version = "0.14.2"
+authors = ["Jan-Erik Rediger <janerik@fnordig.de>"]
+description = "mdbook preprocessor to add Table of Contents"
+license = "MPL-2.0"
+homepage = "https://github.com/badboy/mdbook-toc"
+repository = "https://github.com/badboy/mdbook-toc"
+edition = "2018"
+rust-version = "1.66"
+
+[dependencies]
+
+[dev-dependencies]
+pretty_assertions = "1.4.0"
+env_logger = "0.10.0"
